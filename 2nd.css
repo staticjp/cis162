@@ -1,0 +1,20 @@
+body {background-color:#ecb5b1;
+    font-family:lucida Sans,Verdana, Geneva,san-serif;}
+
+header{background-color: #c47b87;}
+
+
+h1 {color:#272323;}
+nav> ul {color: #c47b87;
+    line-height: 2em;
+list-style-type: none;
+padding-left:5px;}
+
+h2{color:#9b4957}
+
+section{background-color:#aa7e94;
+width:75%;
+line-height: 2em;
+font-size:1.2em;}
+
+footer {color: #8e6975;}
